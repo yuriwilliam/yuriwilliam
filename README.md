@@ -4,7 +4,7 @@
 - 👨‍💻 Sou um estudante de programação
 - ☕ Estou aprendendo Java
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: inline_block"><br>
   
   <img alt="Java" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
